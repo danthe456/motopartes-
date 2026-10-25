@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+Git-*.exe
+*.zip
+desktop.ini
+Captures/
+/AKT_Motos_Special_110_X_2.jpg
